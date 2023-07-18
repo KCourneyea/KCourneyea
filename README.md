@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KCourneyea
 - 👀 I’m interested in Visual Studio, specifically C# utilizing Developer Express tools
 - 🌱 I’m currently learning Developer Express XAF framework
-- 💞️ I’m looking to collaborate on TBD
+- 💞️ I’m looking to collaborate on XAF based projects
 - 📫 How to reach me kcourneyea@gmail.com
 
 <!---
